@@ -61,9 +61,9 @@ const AppTabNavigator = createBottomTabNavigator(
     tabBarOptions: {
       showLabel: false,
       style: {
-        borderRadius: 25,
+        borderRadius: 5,
         height: 80,
-        borderTopColor: '#FFF',
+        borderTopColor: '#EEE',
       },
     },
   },
